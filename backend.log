@@ -1,0 +1,4 @@
+INFO:     Will watch for changes in these directories: ['/home/micael/Desktop/download_from_youtube']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [200711] using WatchFiles
+ERROR:    Error loading ASGI app. Could not import module "app.main".
